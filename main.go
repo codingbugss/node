@@ -34,7 +34,7 @@ import (
 	"time"
 )
 
-const defaultKubeconfigURL = "https://raw.githubusercontent.com/EdgeNet-project/edgenet/master/configs/public.cfg"
+const defaultKubeconfigURL = "https://raw.githubusercontent.com/codingbugss/edgenet/master/configs/public.cfg"
 const defaultVPNNetworkV4 = "10.183.0.0/20"
 const defaultVPNNetworkV6 = "fdb4:ae86:ec99:4004::/64"
 const edgenetConfigFile = "/opt/edgenet/config.yaml"
